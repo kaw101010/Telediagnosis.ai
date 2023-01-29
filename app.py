@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request, jsonify
-import pyttsx3
 from predictor_model import prediction_rf
 
 app = Flask(__name__)

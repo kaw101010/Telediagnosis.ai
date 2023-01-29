@@ -30,8 +30,6 @@ def prediction_rf():
         if i != 'prognosis':
             SYMPTOM_LIST.append(i)
 
-    print('Please tell me your symptoms. The more expressive you are, the better I can diagnose you')
-
     rec_text = speech_to_text()
 
     print('Recognized Speech:', rec_text)

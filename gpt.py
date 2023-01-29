@@ -19,7 +19,6 @@ def gpt(stext):
     return response.choices[0].text
 
 
-disease_list = ['headache', 'insomnia','throat_pain']
 
 def speech_to_text():
     recognizer = speech_recognition.Recognizer()
