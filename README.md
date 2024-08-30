@@ -27,3 +27,6 @@ Clone and Fork this repository. Then navigate to the project directory. Then run
 
 ## License
 This project is licensed under the **MIT License**. More information about this license can be found [here](https://opensource.org/licenses/MIT).
+
+## Contributors
+Krish Wadhwani, Sanjay Marison, @ZilD117
